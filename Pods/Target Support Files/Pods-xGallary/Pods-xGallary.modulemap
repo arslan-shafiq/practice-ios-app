@@ -1,0 +1,6 @@
+framework module Pods_xGallary {
+  umbrella header "Pods-xGallary-umbrella.h"
+
+  export *
+  module * { export * }
+}

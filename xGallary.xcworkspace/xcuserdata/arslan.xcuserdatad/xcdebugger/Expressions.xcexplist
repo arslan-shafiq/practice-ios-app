@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in static PhotosHelper.getImagesFromAlbum(named:options:fetchOptions:completion:):PhotosHelper.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "albums.firstObject as? PHAssetCollection ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

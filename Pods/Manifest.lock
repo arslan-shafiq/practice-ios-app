@@ -1,0 +1,76 @@
+PODS:
+  - Alamofire (4.7.2)
+  - AlamofireImage (3.3.1):
+    - Alamofire (~> 4.5)
+  - ImageSlideshow (1.5.3):
+    - ImageSlideshow/Core (= 1.5.3)
+  - ImageSlideshow/Alamofire (1.5.3):
+    - AlamofireImage (~> 3.0)
+    - ImageSlideshow/Core
+  - ImageSlideshow/Core (1.5.3)
+  - ImageSlideshow/Kingfisher (1.5.3):
+    - ImageSlideshow/Core
+    - Kingfisher (> 3.0)
+  - Kingfisher (4.8.0)
+  - MaterialComponents/BottomAppBar (55.0.4):
+    - MaterialComponents/Buttons
+    - MaterialComponents/NavigationBar
+    - MaterialComponents/private/Math
+    - MDFInternationalization
+  - MaterialComponents/ButtonBar (55.0.4):
+    - MaterialComponents/Buttons
+    - MDFInternationalization
+  - MaterialComponents/Buttons (55.0.4):
+    - MaterialComponents/Ink
+    - MaterialComponents/private/Math
+    - MaterialComponents/private/Shapes
+    - MaterialComponents/ShadowElevations
+    - MaterialComponents/ShadowLayer
+    - MaterialComponents/Typography
+    - MDFInternationalization
+    - MDFTextAccessibility
+  - MaterialComponents/Ink (55.0.4):
+    - MaterialComponents/private/Math
+  - MaterialComponents/NavigationBar (55.0.4):
+    - MaterialComponents/ButtonBar
+    - MaterialComponents/private/Math
+    - MaterialComponents/Typography
+    - MDFInternationalization
+    - MDFTextAccessibility
+  - MaterialComponents/private/Application (55.0.4)
+  - MaterialComponents/private/Math (55.0.4)
+  - MaterialComponents/private/Shapes (55.0.4):
+    - MaterialComponents/private/Math
+    - MaterialComponents/ShadowLayer
+  - MaterialComponents/ShadowElevations (55.0.4)
+  - MaterialComponents/ShadowLayer (55.0.4):
+    - MaterialComponents/ShadowElevations
+  - MaterialComponents/Typography (55.0.4):
+    - MaterialComponents/private/Application
+  - MBProgressHUD (1.1.0)
+  - MDFInternationalization (1.0.4)
+  - MDFTextAccessibility (1.2.0)
+  - SmileLock (3.0.2)
+
+DEPENDENCIES:
+  - ImageSlideshow (~> 1.5)
+  - ImageSlideshow/Alamofire
+  - ImageSlideshow/Kingfisher
+  - MaterialComponents/BottomAppBar
+  - MBProgressHUD (~> 1.1.0)
+  - SmileLock
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  AlamofireImage: 3b35b586853abaf94ca1250f4e94cff3c21a4c0d
+  ImageSlideshow: 24a1184909f589379ba2527ebcc77996881bb1f2
+  Kingfisher: 976d828df2b24834c6a3f2fc4d82cdbd26552be1
+  MaterialComponents: 059f649876b2e1ed6a623ba689175493422cc7cd
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MDFInternationalization: e355b0cebecf53d60233bd267084e49366c82513
+  MDFTextAccessibility: 94098925e0853551c5a311ce7c1ecefbe297cdb6
+  SmileLock: c03dc80d208b33731606e996f5c3fed61255cf59
+
+PODFILE CHECKSUM: e37d97f000363a72072bca56967149341cc22828
+
+COCOAPODS: 1.4.0
